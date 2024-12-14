@@ -14,6 +14,8 @@ A simple and efficient **Calculator App** for Android, built using Kotlin and mo
 
 ---
 ![Calculator 1](https://github.com/DreamfortiX/Calculator-App/blob/2f83574760f5ec0475bf32ee79c5ce4711771ff8/cal1.jpg)
+![Calculator 2](https://github.com/DreamfortiX/Calculator-App/blob/7aa6a322fc4da7ff2cc5539046e6548a34033785/cal2.jpg)
+![Calculator 3]()
 
 
 
