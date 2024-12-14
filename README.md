@@ -13,6 +13,10 @@ A simple and efficient **Calculator App** for Android, built using Kotlin and mo
 - **Responsive Design**: Optimized for different screen sizes and devices.
 
 ---
+![Calculator 1](https://github.com/DreamfortiX/Calculator-App/raw/main/assets/cal1.png)
+![Calculator 2](https://github.com/DreamfortiX/Calculator-App/raw/main/assets/cal2.png)
+![Calculator 3](https://github.com/DreamfortiX/Calculator-App/raw/main/assets/cal3.png)
+
 
 ## Installation
 
